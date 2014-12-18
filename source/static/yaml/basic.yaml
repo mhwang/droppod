@@ -1,0 +1,41 @@
+# Basic theme for DropPod files
+# version 0
+---
+-
+    code: "200"
+    message: "Coming Soon"
+    filename: "index"
+    title: "200 Live"
+-
+    code: "400"
+    message: "Bad Request/Bad Syntax"
+-
+    code: "401"
+    message: "Unauthorized"
+-
+    code: "403"
+    message: "Forbidden"
+-
+    code: "404"
+    message: "Resource Not Found"
+-
+    code: "405"
+    message: "Method Not Allowed"
+-
+    code: "413"
+    message: "Request Entity Too Large"
+-
+    code: "429"
+    message: "Too Many Requests"
+-
+    code: "500"
+    message: "Internal Server Error"
+-
+    code: "502"
+    message: "Bad Gateway"
+-
+    code: "503"
+    message: "Service Unavailable"
+-
+    code: "504"
+    message: "Gateway Timeout"

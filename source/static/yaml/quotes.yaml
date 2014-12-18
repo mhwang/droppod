@@ -1,0 +1,77 @@
+# Quotes theme for DropPod files
+# version 0
+---
+-
+    code: "200"
+    message: "Coming Soon"
+    filename: "index"
+    title: "200 Live"
+    content:
+        quote: "There is no terror in the bang, only in the anticipiation of it."
+        credit: "Alfred Hitchcock"
+-
+    code: "400"
+    message: "Bad Request/Bad Syntax"
+    content:
+        quote: "Syntax, my lad. It has been restored to the highest place in the republic."
+        credit: "John Steinbeck"
+-
+    code: "401"
+    message: "Unauthorized"
+    content:
+        quote: "I was authorized to do everything that I did."
+        credit: "Oliver North"
+-
+    code: "403"
+    message: "Forbidden"
+    content:
+        quote: "There is a charm about the forbidden that makes it unspeakably desirable."
+        credit: "Mark Twain"
+-
+    code: "404"
+    message: "Resource Not Found"
+    content:
+        quote: "They say when you are missing someone that they are probably feeling the same, but I don&rsquo;t think it&rsquo;s possible for you to miss me as much as I&rsquo;m missing you right now."
+        credit: "Edna St. Vincent Millay"
+-
+    code: "405"
+    message: "Method Not Allowed"
+    content:
+        quote: "I think people should be allowed to do anything they want. We haven&rsquo;t tried that for a while. Maybe this time it&rsquo;ll work."
+        credit: "George Carlin"
+-
+    code: "413"
+    message: "Request Entity Too Large"
+    content:
+        quote: "Anyone who doesn&rsquo;t take truth seriously in small matters cannot be trusted in large ones either."
+        credit: "Albert Einstein"
+-
+    code: "429"
+    message: "Too Many Requests"
+    content:
+        quote: "Listen to many, speak to a few."
+        credit: "William Shakespeare"
+-
+    code: "500"
+    message: "Internal Server Error"
+    content:
+        quote: "It is error only, and not truth, that shrinks from inquiry."
+        credit: "Thomas Paine"
+-
+    code: "502"
+    message: "Bad Gateway"
+    content:
+        quote: "Explanation separates us from astonishment, which is the only gateway to the incomprehensible."
+        credit: "Eug&egrave;ne Ionesco"
+-
+    code: "503"
+    message: "Service Unavailable"
+    content:
+        quote: "Man has a limited biological capacity for change. When this capacity is overwhelmed, the capacity is in future shock."
+        credit: "Alvin Toffler"
+-
+    code: "504"
+    message: "Gateway Timeout"
+    content:
+        quote: "Somewhere, something incredible is waiting to be known."
+        credit: "Carl Sagan"

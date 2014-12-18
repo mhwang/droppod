@@ -1,0 +1,14 @@
+.DS_Store
+._*
+
+*.pyc
+node_modules
+
+generated
+processed
+
+source/builder/bin
+source/builder/include
+source/builder/lib*
+
+releases
